@@ -1,0 +1,86 @@
+body {
+  background-color: #191765 !important;
+}
+
+.container {
+  background-color: #191765 !important;
+}
+
+@media (min-width: 992px) {
+  .first {
+    background-image: url('img/two-circles-header.png');
+    background-repeat: no-repeat;
+   background-size: 95%;
+  }
+}
+
+
+
+.my-name {
+  color: #9390ff;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-style: Bold;
+  font-size: 40px;
+  line-height: 105px;
+  line-height: 100%;
+  text-align: center;
+  vertical-align: top;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+/* 
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+} */
+
+.container {
+  max-width: 100%;
+}
+
+i {
+  color: #fff !important;
+}
+
+.fa-angellist {
+  color: #fff !important;
+}
+
+.post-head {
+  font-family: "Roboto", Arial, sans-serif;
+  font-style: Bold;
+  font-size: 40px;
+  line-height: 52px;
+  line-height: 111%;
+  text-align: left;
+  vertical-align: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.post-txt {
+  font-family: "Inter", "Roboto", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  line-height: 116%;
+  text-align: left;
+  vertical-align: top;
+  color: #dcdce8;
+  margin-bottom: 50px;
+}
+
+.recent {
+  font-family: "Roboto", sans-serif;
+  font-size: 53px;
+  line-height: 114px;
+  line-height: 100%;
+  text-align: left;
+  vertical-align: center;
+  color: #9390ff;
+}
