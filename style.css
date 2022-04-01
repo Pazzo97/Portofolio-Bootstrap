@@ -4,6 +4,7 @@ body {
 
 .container {
   background-color: #191765 !important;
+  max-width: 100%;
 }
 
 @media (min-width: 992px) {
@@ -17,7 +18,7 @@ body {
 .my-name {
   color: #9390ff;
   font-family: "Roboto", Arial, Helvetica, sans-serif;
-  font-style: Bold;
+  font-style: bold;
   font-size: 40px;
   line-height: 105px;
   line-height: 100%;
@@ -31,10 +32,6 @@ body {
   border-radius: 10px;
 }
 
-.container {
-  max-width: 100%;
-}
-
 i {
   color: #fff !important;
 }
@@ -45,7 +42,7 @@ i {
 
 .post-head {
   font-family: "Roboto", Arial, sans-serif;
-  font-style: Bold;
+  font-style: bold;
   font-size: 40px;
   line-height: 52px;
   line-height: 111%;
