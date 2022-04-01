@@ -10,11 +10,9 @@ body {
   .first {
     background-image: url('img/two-circles-header.png');
     background-repeat: no-repeat;
-   background-size: 95%;
+    background-size: 95%;
   }
 }
-
-
 
 .my-name {
   color: #9390ff;
@@ -32,13 +30,6 @@ body {
   height: 100%;
   border-radius: 10px;
 }
-
-/* 
-@media (min-width: 768px) {
-  .news-input {
-    width: 50%;
-  }
-} */
 
 .container {
   max-width: 100%;
